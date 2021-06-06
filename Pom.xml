@@ -1,0 +1,5 @@
+<dependency>
+   <groupId>io.soluble.pjb</groupId>
+    <artifactId>php-java-bridge</artifactId>
+   <version>x.y.z</version>
+</dependency>
